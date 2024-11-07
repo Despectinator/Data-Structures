@@ -1,4 +1,4 @@
 # Data-Structures
 This is my first GIT Repository
 <br>
-Author Syed Muhammad Ali Bokhari
+Author - Syed Muhammad Ali Bokhari
